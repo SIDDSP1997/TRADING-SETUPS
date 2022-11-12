@@ -1,5 +1,3 @@
-# TRADING-SETUPS
-
 # What happens when???
 
 """
